@@ -1,5 +1,9 @@
 # fab_challenge_3
+<<<<<<< HEAD
 by Kai, Joaquin, José.
+=======
+FabLab Challenge III by Kai, Joaquin, José.
+>>>>>>> 585a1de37a07f5f0e895cce186f7452ccc909f06
 
 ## Design and make an “ethical tool or artifact” that allows you interact with others
 
