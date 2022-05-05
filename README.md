@@ -71,7 +71,7 @@ Friday May 6th:
 
 ### System Diagram 
 
-![photo](/project_diagram2.jpeg)
+![photo](/project_diagram2.png)
 
 
 ### Integrated Design 
