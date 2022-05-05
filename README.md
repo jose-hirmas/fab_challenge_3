@@ -64,16 +64,16 @@ Thursday May 5th:
 ### Integrated Design 
 
 Adafruit Diagram
-![photo](/adafruitdiagram.jpeg)
+![photo](/adafruitdiagram.jpg)
 
 Surface Design
-![photo](/surfacedesign.jpeg)
+![photo](/surfacedesign.jpg)
 
 Arduino Code for TouchPins
-![photo](/arduinocodes.jpeg)
+![photo](/arduinocode.jpg)
 
 Serial Connection of Arduino and Pure Data Software
-![photo](/serialconnection.jpeg)
+![photo](/serialconnection.jpg)
 
 
 ### Honest Design
