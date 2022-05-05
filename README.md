@@ -62,9 +62,18 @@ Thursday May 5th:
 
 
 ### Integrated Design 
-(how you design it, files )
 
+Adafruit Diagram
+![photo](/adafruitdiagram.jpeg)
 
+Surface Design
+![photo](/surfacedesign.jpeg)
+
+Arduino Code for TouchPins
+![photo](/arduinocodes.jpeg)
+
+Serial Connection of Arduino and Pure Data Software
+![photo](/serialconnection.jpeg)
 
 
 ### Honest Design
