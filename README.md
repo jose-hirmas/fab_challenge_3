@@ -57,7 +57,6 @@ Friday May 6th:
 - Exhibit the art (sound paintings)
 
 
-
 ### Execution
 
 **Coding Arduino Touchpins**
@@ -70,13 +69,9 @@ Friday May 6th:
 ![photo](/copper_cutting2.jpeg)
 
 
-
-
-
 ### System Diagram 
 
 ![photo](/project_diagram2.jpeg)
-
 
 
 ### Integrated Design 
@@ -100,9 +95,7 @@ Technology (Arduino, Pure Data Music Software, Cables, and conductive surface) w
 Copying the drawing of the conductive surface into a paper is made manually by the user, empowering the participant as an artist.
 
 
-
 ### Iteration process
-
 
 **Prototype #1**
 ![photo](/prototype1.jpg)
@@ -114,12 +107,12 @@ Copying the drawing of the conductive surface into a paper is made manually by t
 We wanted to use the big markers our drawing tools, except the conductivity was not optimal, when compare to using our fingers. We bypassed this problem by implanting 3 metal pins in the marker to enhance its performance. This gave us a range of 10 points as opposed to the previous 2-3, which was not reliable enough to make it usable.
 
 2. Serigraphy
-Initially, we wanted to place paper on top of the copper plaques, but we soon realised that this would add too much resistance and not create a big enough variance in signal. To solve this, we decided to directly 
+Initially, we wanted to place paper on top of the copper plaques, but we soon realised that this would add too much resistance and not create a big enough variance in signal. To solve this, we decided to directly draw with the finger on the conductive surface and after put a paper on top to press against it. So the final drawing will stay on the paper. 
 
 
 ### Future Development Oportunities
 (beyond)
 
-Scale it up
+Analyzing the patterns of the drawing can be a way of understanding the proximity and relation that individuals have to specific frecuencies of sound.
 
 
