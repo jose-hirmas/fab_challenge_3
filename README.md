@@ -98,7 +98,9 @@ Copying the drawing of the conductive surface into a paper is made manually by t
 ### Iteration process
 
 **Prototype #1**
+
 ![photo](/prototype1.jpg)
+
 
 
 **Solving problems with creativity**
