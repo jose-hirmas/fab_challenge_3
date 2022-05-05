@@ -3,7 +3,7 @@
 by Kai, Joaquin, José and Tatiana.
 
 
-### "Serigraphy of the Sound" is an ethical tool for generating awareness about how sounds affects behaviour and human decisions.
+### "Serigraphy of the Sound" is an ethical tool for generating awareness about how sound affects behaviour and human decisions.
 
 (paste final picture of the project)
 
