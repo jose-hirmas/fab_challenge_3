@@ -15,7 +15,10 @@ Based on design ethics, we started discussing about the non-neutrality of design
 
 Our common areas of interest are music, games, communication, interactive design and low tech with the purpose of seeking new ways of relationship between humans and non-humans. Through this, we are developing an artifact that allows human interaction, guided by different sounds, creating a final output of sound-paintings. The human interaction (input) is about drawing and being guided by the sounds. The final output is the drawing itself.
 
-![photo](/sketch.jpeg)
+![photo](/sketch.jpeg = 250x)
+
+![photo](/miro1.png)
+![photo](/miro2.png)
 
 
 ### Goals
@@ -57,18 +60,26 @@ Friday May 6th:
 
 ### Execution
 
+**Coding Arduino Touchpins**
+![photo](/testing_arduino2.jpeg)
+
+**Pure Data Sound Design**
+![photo](/pure_data2.jpeg)
+
+**Vinyl Cutting**
+![photo](/copper_cutting2.jpeg)
+
+
 
 
 
 ### System Diagram 
-(ilustration explaining function, parts and relations)
+
+![photo](/project_diagram2.jpeg)
 
 
 
 ### Integrated Design 
-
-**Adafruit Diagram**
-![photo](/adafruitdiagram.jpg)
 
 **Surface Design**
 ![photo](/surfacedesign.jpg)
@@ -91,11 +102,13 @@ Copying the drawing of the conductive surface into a paper is made manually by t
 
 
 ### Iteration process
-(prototypes,solving problems with creativity, explore design boundaries final result)
 
 
-Solving problems with creativity
+**Prototype #1**
+![photo](/prototype1.jpg)
 
+
+**Solving problems with creativity**
 
 1. Marker
 We wanted to use the big markers our drawing tools, except the conductivity was not optimal, when compare to using our fingers. We bypassed this problem by implanting 3 metal pins in the marker to enhance its performance. This gave us a range of 10 points as opposed to the previous 2-3, which was not reliable enough to make it usable.
