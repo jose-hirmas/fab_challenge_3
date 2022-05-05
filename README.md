@@ -14,6 +14,7 @@ Based on design ethics, we started discussing about the non-neutrality of design
 
 Our common areas of interest are music, games, communication, interactive design and low tech with the purpose of seeking new ways of relationship between humans and non-humans. Through this, we are developing an artifact that allows human interaction, guided by different sounds, creating a final output of sound-paintings. The human interaction (input) is about drawing and being guided by the sounds. The final output is the drawing itself.
 
+![photo](/photos/sketch.jpeg)
 
 
 ### Goals
