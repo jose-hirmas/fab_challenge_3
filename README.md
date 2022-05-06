@@ -5,7 +5,7 @@ by Kai, Joaquin, José and Tatiana.
 
 ### "Sensorial Decisions" is an ethical tool for generating awareness about how sound affects behaviour and human decisions.
 
-![photo](/prototipofinal.jpg)
+![photo](/prototipofinal.jpeg)
 ![photo](/prototipofinal1.jpg)
 
 
@@ -120,6 +120,8 @@ After programming the frecuencies to the copper surface, we tried different type
 ### Future Development Oportunities
 
 Analyzing the patterns of the drawing can be a way of understanding the proximity and relation that individuals have to specific frecuencies of sound.
+
+![photo](/prototipofinal2.jpeg)
 
 
 
