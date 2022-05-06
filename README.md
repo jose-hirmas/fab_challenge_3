@@ -35,16 +35,19 @@ Our common areas of interest are music, games, communication, interactive design
 ### Planification
 
 Tuesday May 3rd:
+
 -Brainstorm session
 -Define tools
 -Sketch ideas
 
 Wednesday May 4th:
+
 -Concept has been defined
 -Design of the conductive surface is designed
 -Test with 1 touchpin
 
 Thursday May 5th:
+
 -Test conductivity range with 8 touchpins
 -Test out different drawing tools: finger, marker, pen, pencil...
 -Laser cut base
@@ -54,6 +57,7 @@ Thursday May 5th:
 -Complete prototype
 
 Friday May 6th:
+
 - Invite classmates to interact with the artifact, record sound.
 - Prepare final drawings and connect sound
 - Exhibit the art (sound paintings)
@@ -62,12 +66,15 @@ Friday May 6th:
 ### Execution
 
 **Coding Arduino Touchpins**
+
 ![photo](/testing_arduino2.jpeg)
 
 **Pure Data Sound Design**
+
 ![photo](/pure_data2.jpeg)
 
 **Vinyl Cutting**
+
 ![photo](/copper_cutting2.jpeg)
 
 
@@ -107,13 +114,13 @@ Copying the drawing of the conductive surface into a paper is made manually by t
 
 **Solving problems with creativity**
 
-1. Marker
+1. Marker:
 We wanted to use the big markers our drawing tools, except the conductivity was not optimal, when compare to using our fingers. We bypassed this problem by implanting 3 metal pins in the marker to enhance its performance. This gave us a range of 10 points as opposed to the previous 2-3, which was not reliable enough to make it usable.
 
-2. Serigraphy
+2. Serigraphy:
 Initially, we wanted to place paper on top of the copper plaques, but we soon realised that this would add too much resistance and not create a big enough variance in signal. To solve this, we decided to directly draw with the finger on the conductive surface and after put a paper on top to press against it. So the final drawing will stay on the paper. 
 
-3. Paper
+3. Paper:
 After programming the frecuencies to the copper surface, we tried different types of paper for drawing and finally choose the baking sheet because the conductivity worked well between the finger and the surface.
 
 
