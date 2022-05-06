@@ -111,6 +111,12 @@ Copying the drawing of the conductive surface into a paper is made manually by t
 ![photo](/prototipo1_1.jpeg)
 ![photo](/prototipo1_2.jpeg)
 
+**Prototype #2**
+
+![photo](/prototipo2_1.jpeg)
+![photo](/prototipo2_2.jpeg)
+
+
 
 **Solving problems with creativity**
 
