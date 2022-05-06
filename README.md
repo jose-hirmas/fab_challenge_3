@@ -3,7 +3,7 @@
 by Kai, Joaquin, José and Tatiana.
 
 
-### "Serigraphy of the Sound" is an ethical tool for generating awareness about how sound affects behaviour and human decisions.
+### "Musical Choices" is an ethical tool for generating awareness about how sound affects behaviour and human decisions.
 
 (paste final picture of the project)
 
@@ -111,9 +111,11 @@ We wanted to use the big markers our drawing tools, except the conductivity was 
 2. Serigraphy
 Initially, we wanted to place paper on top of the copper plaques, but we soon realised that this would add too much resistance and not create a big enough variance in signal. To solve this, we decided to directly draw with the finger on the conductive surface and after put a paper on top to press against it. So the final drawing will stay on the paper. 
 
+3. Paper
+After programming the frecuencies to the copper surface, we tried different types of paper for drawing and finally choose the baking sheet because the conductivity worked well between the finger and the surface. 
+
 
 ### Future Development Oportunities
-(beyond)
 
 Analyzing the patterns of the drawing can be a way of understanding the proximity and relation that individuals have to specific frecuencies of sound.
 
