@@ -3,9 +3,11 @@
 by Kai, Joaquin, José and Tatiana.
 
 
-### "Musical Choices" is an ethical tool for generating awareness about how sound affects behaviour and human decisions.
+### "Sensorial Decisions" is an ethical tool for generating awareness about how sound affects behaviour and human decisions.
 
-(paste final picture of the project)
+![photo](/prototipofinal.jpeg)
+![photo](/prototipofinal1.jpeg)
+
 
 ### Concept of the Project 
 
@@ -15,7 +17,7 @@ Based on design ethics, we started discussing about the non-neutrality of design
 
 Our common areas of interest are music, games, communication, interactive design and low tech with the purpose of seeking new ways of relationship between humans and non-humans. Through this, we are developing an artifact that allows human interaction, guided by different sounds, creating a final output of sound-paintings. The human interaction (input) is about drawing and being guided by the sounds. The final output is the drawing itself.
 
-![photo](/sketch.jpeg = 250x)
+![photo](/sketch.jpeg)
 
 ![photo](/miro1.png)
 ![photo](/miro2.png)
