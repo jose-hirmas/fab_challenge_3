@@ -101,9 +101,6 @@ Human senses are the main tools for using our artifact. Our fingers for drawing,
 
 Technology (Arduino, Pure Data Music Software, Cables, and conductive surface) was used as a medium to "transform" the touching input into a sound output.
 
-Copying the drawing of the conductive surface into a paper is made manually by the user, empowering the participant as an artist.
-
-
 ### Iteration process
 
 **Prototype #1**
