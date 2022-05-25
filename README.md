@@ -139,3 +139,46 @@ Analyzing the patterns of the drawing can be a way of understanding the proximit
 
 
 
+
+
+### UPDATES
+
+## How did you fabricate it (fabrication processes and materials) 
+
+Since we used mostly scrap materials, that shaped our process a lot. For the acrylic base, we found a tiny space on a panel inside the scrap section at the fab lab. We simply laser cut a 15 x 24 cm onto the acrylic using the standardised settings for that 4mm acrylic panel. For this reason, we did not save the file, because we figured that anybody could make a simple rectangle in Rhino.
+
+As for the conductive copper, we designed it on Illustrator (screenshot above). You can find the file in the FILES folder.
+
+Lastly, for the final display board, we simply used some scrap wooden CNC components from Anna's previous design intervention, which clicked perfectly into a wooden panel.
+
+## Design & Fabrication files (open source or open format) 
+
+
+We wanted to use mostly scrap materials, so we did not have much fabrication processes like 3D printing, CNC or laser cut files. Instead, we have Illustrator + Arduino + Pure data files. You can find them in the FILES folder. 
+
+## BOM (Build of Materials) 
+
+15 x 24 cm 4mm transparent acrylic panel
+20 x 30 cm copper vinyl cut sticker
+9 cables connecting board to Arduino/Playtronica
+Arduino
+Playtronica
+Waste scrap MDF wood
+
+
+## Iteration Process (spiral development)
+
+1. Prototyping the board using a scrap copper
+
+![photo](/pure_data2.jpeg)
+
+3. Testing different materials (we experimented with aluminium)
+
+![photo](/prototipo1_1.jpeg)
+
+2. Final output
+
+![photo](/prototipo2_2.jpeg)
+
+
+
