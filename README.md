@@ -158,12 +158,12 @@ We wanted to use mostly scrap materials, so we did not have much fabrication pro
 
 ## BOM (Build of Materials) 
 
-15 x 24 cm 4mm transparent acrylic panel
-20 x 30 cm copper vinyl cut sticker
-9 cables connecting board to Arduino/Playtronica
-Arduino
-Playtronica
-Waste scrap MDF wood
+-15 x 24 cm 4mm transparent acrylic panel
+-20 x 30 cm copper vinyl cut sticker
+-9 cables connecting board to Arduino/Playtronica
+-Arduino
+-Playtronica
+-Waste scrap MDF wood
 
 
 ## Iteration Process (spiral development)
